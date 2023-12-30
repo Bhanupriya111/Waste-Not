@@ -1,0 +1,123 @@
+[
+    {
+      "company": "HP",
+      "Models": [
+        {
+          "HP 14s-fq1029AU": 40990
+        },
+          {
+          "HP Pavilion 14-dv0054TU": 58990
+        },
+          {
+          "HP 15s-du3032TU": 49990
+        },
+          {
+          "HP Pavilion Gaming 15-ec1052AX": 71990
+        },
+          {
+          "HP Spectre x360 Convertible Laptop - 14-ea0053TU": 144999
+        }
+      ]
+    },
+    {
+      "company": "Dell",
+      "Models": [
+        {
+          "Dell Inspiron 3501": 35490
+        },
+          {
+          "Dell Vostro 3501": 38690
+        },
+          {
+          "Dell Inspiron 5410": 64380
+        },
+          {
+          "Dell XPS 13 (9310)": 159990
+        },
+          {
+          "Dell G5 15 SE (5505)": 100990
+        }
+        
+      ]
+    },
+    {
+      "company": "Lenovo",
+      "Models": [
+        {
+          "Lenovo Ideapad Slim 3i (81WE00Q5IN)": 36990
+          },
+          {
+          "Lenovo ThinkPad E15 Gen 2 (20TDS0A200)": 65990
+          },
+          {
+          "Lenovo Yoga Slim 7i Carbon (82EV003WIN)": 132990
+          },
+          {
+          "Lenovo Legion 5i (82AU00BAIN)": 95990
+          },
+          {
+          "Lenovo ThinkPad X1 Carbon Gen 9 (20XW002MIH)": 219999
+        }
+      ]
+    },
+    {
+      "company": "Acer",
+      "Models": [
+        {
+          "Acer Aspire 3 A315-57G":46999
+          },
+          {
+          "Acer Nitro 5 AN515-56":85990
+          },
+          {
+          "Acer Predator Triton 300 PT315-53": 119999
+          },
+          {
+          "Acer Swift 3 SF314-59":71999
+          },
+          {
+          "Acer Spin 5 SP513-54N": 129999
+        }
+        
+      ]
+    },
+    {
+      "company": "ASUS",
+      "Models": [
+        {
+          "Asus VivoBook 14 X415JA": 43790
+          },
+        {
+          "Asus TUF Gaming A15 FA506IV": 109990
+          },
+        {
+          "Asus ZenBook Duo UX482EG": 126990
+          },
+        {
+          "Asus ROG Zephyrus G15 GA503QS": 154990
+          },
+        {
+          "Asus ExpertBook B9 B9400CEA": 157990
+        }
+        
+      ]
+    },
+    {
+      "company": "Apple",
+      "Models": [
+        {
+  "MacBook Air (M1, 2020)": 92900
+},
+  {
+    "MacBook Pro 13-inch (M1, 2020)": 117900
+  },
+  {
+    "MacBook Pro 16-inch (2019)": 199900
+  },
+  {"MacBook Air (Retina, 2019)": 99900},
+  {"MacBook Pro 13-inch (2019)": 122900}
+
+      ]
+    }
+  ]
+  

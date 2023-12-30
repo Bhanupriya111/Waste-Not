@@ -1,0 +1,65 @@
+[
+    {
+      "company": "Boat",
+      "Models": [
+        {
+          "Boat Stone 1200": 5999
+          },
+          {
+          "Boat Stone 1400": 7999
+          },
+          {
+          "Boat Stone 1000": 3499
+          },
+          {
+          "Boat Stone 650": 2499
+          },
+          {
+          "Boat Stone 200": 1499
+        }
+        
+      ]
+    },
+    {
+      "company": "JBL",
+      "Models": [
+        {
+          "JBL Go 3": 3499
+          },
+          {
+          "JBL Flip Essential": 6499
+          },
+          {
+          "JBL Clip 4": 3499
+          },
+          {
+          "JBL Charge 5": 17999
+          },
+          {
+          "JBL Xtreme 3": 25999
+        }
+        
+      ]
+    },
+    {
+      "company": "Sony",
+      "Models": [
+        {
+          "Sony SRS-XB13": 4990
+          },
+          {
+          "Sony SRS-XB23": 8990
+          },
+          {
+          "Sony SRS-XB33": 14990
+          },
+          {
+          "Sony SRS-XB43": 18990
+          },
+          {
+          "Sony SRS-XB12": 3590
+        }
+      ]
+    }
+  ]
+  

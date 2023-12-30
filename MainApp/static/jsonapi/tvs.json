@@ -1,0 +1,89 @@
+[
+    {
+        "company": "LG",
+        "Models": [
+            
+            {
+                "LG 32LM565BPTA": 23990
+                },
+                {
+                "LG 43LM5650PTA": 39990
+                },
+                {
+                "LG 43UM7290PTF": 48990
+                },
+                {
+                "LG 55UP7500PTA": 69990
+                },
+                {
+                "LG 65UP7750PTA": 124990
+              }
+              
+           
+        ]
+    },
+    {
+        "company": "Samsung",
+        "Models": [
+            {
+                "Samsung 32T4500 32-inch HD Ready Smart LED TV": 21490
+                },
+                {
+                "Samsung 43TUE60FA 43-inch 4K Smart Crystal UHD TV": 45990
+                },
+                {
+                "Samsung 55Q70A 55-inch 4K Smart QLED TV": 117990
+                },
+                {
+                "Samsung 65Q800T 65-inch 8K Smart QLED TV": 599990
+                },
+                {
+                "Samsung 75Q900TS 75-inch 8K Smart QLED TV": 1299990
+              }
+           
+        ]
+    },
+    {
+        "company": "SONY",
+        "Models": [
+            {
+                "Sony Bravia 32W830 32-inch Full HD Smart LED TV":34990
+                },
+                {
+                "Sony Bravia 43X80J 43-inch 4K Ultra HD Smart LED TV":59990
+                },
+                {
+                "Sony Bravia 55X90J 55-inch 4K Ultra HD Smart LED TV": 129990
+                },
+                {
+                "Sony Bravia 65X90J 65-inch 4K Ultra HD Smart LED TV": 229990
+                },
+                {
+                "Sony Bravia 75X90J 75-inch 4K Ultra HD Smart LED TV": 449990
+              }
+              
+        ]
+    },
+    {
+        "company": "VU",
+        "Models": [
+            {
+                "VU 32-inch HD Ready Smart LED TV": 14999
+                },
+                {
+                "VU 43-inch 4K Ultra HD Smart LED TV": 28999
+                },
+                {
+                "VU 50-inch 4K Ultra HD Smart LED TV": 32999
+                },
+                {
+                "VU 55-inch 4K Ultra HD Smart LED TV": 37999
+                },
+                {
+                "VU 65-inch 4K Ultra HD Smart LED TV": 52999
+              }
+              
+          
+        ]
+    }
+]

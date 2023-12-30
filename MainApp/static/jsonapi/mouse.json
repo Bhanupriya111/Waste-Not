@@ -1,0 +1,52 @@
+[
+    {
+      "company": "Zebronics",
+      "Models": [
+        {
+          "Zebronics Zeb-Alex Wired USB Optical Mouse": 299,
+          "Zebronics Zeb-DLM1 USB Optical Mouse": 399,
+          "Zebronics Zeb-DLM2 USB Optical Mouse": 449,
+          "Zebronics Zeb-Rise Wireless Optical Mouse": 599,
+          "Zebronics Zeb-Rocket Wireless Optical Mouse": 799
+        }
+      ]
+    },
+    {
+      "company": "Dell",
+      "Models": [
+        {
+          "Dell MS116 Wired Optical Mouse": 399
+          },
+          {
+          "Dell WM126 Wireless Optical Mouse": 749
+          },
+          {
+          "Dell WM527 Wireless Optical Mouse": 2599
+          },
+          {
+          "Dell MS3320W Wireless Optical Mouse": 1399
+          },
+          {
+          "Dell Premier Wireless Mouse - WM527": 3099
+        }
+      ]
+    },
+    {
+      "company": "HP",
+      "Models": [
+        {
+          "HP X1000 Wired Mouse": 299}
+          ,{
+          "HP X500 Wired Mouse": 399}
+          ,{
+          "HP Z3700 Wireless Mouse": 1299}
+          ,{
+          "HP X3000 Wireless Mouse": 1399}
+          ,{
+          "HP Spectre Rechargeable Mouse 700": 6999
+        }
+        
+      ]
+    }
+  ]
+  
